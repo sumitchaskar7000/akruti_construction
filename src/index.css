@@ -1,0 +1,75 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer base {
+  * {
+    @apply scroll-smooth;
+  }
+
+  body {
+    @apply bg-neutral-50 text-neutral-900 antialiased;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Poppins', 'Inter', system-ui, sans-serif;
+  }
+}
+
+@layer components {
+  /* -------------------------------
+     PRIMARY BUTTON (Blue)
+  --------------------------------*/
+  .btn-primary {
+    background: linear-gradient(to right, #198ef6, #0f5aa8); /* brandBlue.500 → .700 */
+    @apply text-white px-8 py-4 rounded-xl font-semibold 
+           hover:shadow-2xl hover:scale-105 
+           transition-all duration-300 shadow-lg;
+  }
+
+  /* -------------------------------
+     SECONDARY BUTTON (Yellow)
+  --------------------------------*/
+  .btn-secondary {
+    background: linear-gradient(to right, #ffd400, #a67e00); /* brandYellow.500 → .700 */
+    @apply text-white px-8 py-4 rounded-xl font-semibold 
+           hover:shadow-2xl hover:scale-105 
+           transition-all duration-300 shadow-lg;
+  }
+
+  /* -------------------------------
+     OUTLINE BUTTON (Glass-White)
+  --------------------------------*/
+  .btn-outline {
+    @apply border-2 border-white/30 backdrop-blur-sm 
+           bg-white/10 text-white 
+           px-8 py-4 rounded-xl font-semibold 
+           hover:bg-white hover:text-neutral-900 
+           transition-all duration-300 shadow-lg;
+  }
+
+  /* -------------------------------
+     CARD STYLE
+  --------------------------------*/
+  .card-modern {
+    @apply bg-white rounded-2xl shadow-lg 
+           hover:shadow-2xl transition-all duration-300 
+           overflow-hidden;
+  }
+
+  /* -------------------------------
+     GRADIENT TEXT (Primary → Accent)
+  --------------------------------*/
+  .gradient-text {
+    @apply bg-gradient-to-r from-primary to-accent 
+           bg-clip-text text-transparent;
+  }
+
+  /* -------------------------------
+     SECTION PADDING
+  --------------------------------*/
+  .section-padding {
+    @apply py-16 md:py-24 lg:py-32;
+  }
+}

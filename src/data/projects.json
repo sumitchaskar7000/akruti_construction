@@ -1,0 +1,323 @@
+[
+  {
+    "id": "audumber-business-center",
+    "title": "Audumber Business Center",
+    "status": "Upcoming",
+    "location": "Bavdhan, Pune",
+    "image": "/images/projects/upcoming1.jpg",
+    "description": "12 Storey commercial project located in Bavdhan.",
+    "link": "/projects/audumber-business-center",
+    "specifications": {
+      "area": "1 Lac Sq.Ft",
+      "units": "12 Storey",
+      "type": "Commercial",
+      "amenities": [
+        "Office Spaces",
+        "Parking",
+        "Security",
+        "High Speed Elevator"
+      ]
+    }
+  },
+  {
+    "id": "crown-regent",
+    "title": "SkyRise",
+    "status": "Ongoing",
+    "location": "Ambegaon, Pune",
+    "image": "/images/projects/sky.jpg",
+    "description": "12 Storey premium residential project in Ambegaon.",
+    "link": "/projects/crown-regent",
+    "specifications": {
+      "area": "1.25 Lac Sq.Ft",
+      "units": "12 Storey",
+      "type": "Residential",
+      "amenities": [
+        "Parking",
+        "Security",
+        "Clubhouse",
+        "Children's Play Area"
+      ]
+    }
+  },
+  {
+    "id": "celestia",
+    "title": "Celestia",
+    "status": "Upcoming",
+    "location": "Vadgaon, Sinhagad Road, Pune",
+    "image": "/images/projects/audumber3.jpg",
+    "description": "15 Storey residential development with modern amenities.",
+    "link": "/projects/celestia",
+    "specifications": {
+      "area": "1.5 Lac Sq.Ft",
+      "units": "15 Storey",
+      "type": "Residential",
+      "amenities": [
+        "Gym",
+        "Parking",
+        "Security",
+        "Garden Area"
+      ]
+    }
+  },
+  {
+    "id": "verdant-vista",
+    "title": "Verdant Vista",
+    "status": "Ongoing",
+    "location": "Pisoli, Pune",
+    "image": "/images/projects/untited4.jpg",
+    "description": "7 Storey residential development with greenery and open spaces.",
+    "link": "/projects/verdant-vista",
+    "specifications": {
+      "area": "1,20,000 Sq.Ft",
+      "units": "7 Storey",
+      "type": "Residential",
+      "amenities": [
+        "Parking",
+        "Security",
+        "Landscape Garden"
+      ]
+    }
+  },
+  {
+    "id": "kuber-capital",
+    "title": "Kuber Capital",
+    "status": "Ongoing",
+    "location": "Navi Peth, Pune",
+    "image": "/images/projects/kuber5.jpg",
+    "description": "9 Storey commercial & residential mixed development.",
+    "link": "/projects/kuber-capital",
+    "specifications": {
+      "area": "15,000 Sq.Ft",
+      "units": "9 Storey",
+      "type": "Commercial & Residential",
+      "amenities": [
+        "Shops",
+        "Parking",
+        "Security"
+      ]
+    }
+  },
+  {
+    "id": "audumber-capital",
+    "title": "Audumber Capital",
+    "status": "Ongoing",
+    "location": "Karvenagar, Pune",
+    "image": "/images/projects/au_capital.jpeg",
+    "description": "6 Storey residential building in Karvenagar.",
+    "link": "/projects/audumber-capital",
+    "specifications": {
+      "area": "22,000 Sq.Ft",
+      "units": "6 Storey",
+      "type": "Residential",
+      "amenities": [
+        "Parking",
+        "Security"
+      ]
+    }
+  },
+  {
+    "id": "yashwant-audumber",
+    "title": "Yashwant Audumber",
+    "status": "Completed",
+    "location": "Wakad, Pune",
+    "image": "/images/projects/aumber18.jpg",
+    "description": "7 Storey residential project developed in Wakad.",
+    "link": "/projects/yashwant-audumber",
+    "specifications": {
+      "area": "60,000 Sq.Ft",
+      "units": "7 Storey",
+      "type": "Residential",
+      "amenities": [
+        "Parking",
+        "Security",
+        "Open Spaces"
+      ]
+    }
+  },
+  {
+    "id": "blueshire",
+    "title": "Blueshire",
+    "status": "Upcoming",
+    "location": "Dhankawadi, Pune",
+    "image": "/images/projects/blueshare8.jpg",
+    "description": "7 Storey residential building in Dhankawadi.",
+    "link": "/projects/blueshire",
+    "specifications": {
+      "area": "25,000 Sq.Ft",
+      "units": "7 Storey",
+      "type": "Residential",
+      "amenities": [
+        "Security",
+        "Parking"
+      ]
+    }
+  },
+  {
+    "id": "asteria",
+    "title": "Asteria",
+    "status": "Ongoing",
+    "location": "Dhankawadi, Pune",
+    "image": "/images/projects/asteria.jpg",
+    "description": "Modern 7 Storey residential development in Dhankawadi.",
+    "link": "/projects/asteria",
+    "specifications": {
+      "area": "60,000 Sq.Ft",
+      "units": "7 Storey",
+      "type": "Residential",
+      "amenities": [
+        "Parking",
+        "Security",
+        "Garden"
+      ]
+    }
+  },
+  {
+    "id": "audumber-classic",
+    "title": "Audumber Classic",
+    "status": "Completed",
+    "location": "Narhe, Pune",
+    "image": "/images/projects/audumber10.jpg",
+    "description": "6 Storey residential project located in Narhe.",
+    "link": "/projects/audumber-classic",
+    "specifications": {
+      "area": "45,000 Sq.Ft",
+      "units": "6 Storey",
+      "type": "Residential",
+      "amenities": [
+        "Parking",
+        "Security"
+      ]
+    }
+  },
+  {
+    "id": "audumber-complex",
+    "title": "Audumber Complex",
+    "status": "Completed",
+    "location": "Narhe, Pune",
+    "image": "/images/projects/audumber11.jpg",
+    "description": "8 Storey commercial & residential complex in Narhe.",
+    "link": "/projects/audumber-complex",
+    "specifications": {
+      "area": "85,000 Sq.Ft",
+      "units": "8 Storey",
+      "type": "Commercial & Residential",
+      "amenities": [
+        "Shops",
+        "Parking",
+        "Security"
+      ]
+    }
+  },
+  {
+    "id": "audumber-heights",
+    "title": "Audumber Heights",
+    "status": "Completed",
+    "location": "Narhe, Pune",
+    "image": "/images/projects/audumber12.jpg",
+    "description": "6 Storey residential project in Narhe.",
+    "link": "/projects/audumber-heights",
+    "specifications": {
+      "area": "21,000 Sq.Ft",
+      "units": "6 Storey",
+      "type": "Residential",
+      "amenities": [
+        "Parking",
+        "Security"
+      ]
+    }
+  },
+  {
+    "id": "audumber-palace",
+    "title": "Audumber Palace",
+    "status": "Completed",
+    "location": "Narhe, Pune",
+    "image": "/images/projects/audumber13.jpg",
+    "description": "6 Storey commercial & residential building.",
+    "link": "/projects/audumber-palace",
+    "specifications": {
+      "area": "42,000 Sq.Ft",
+      "units": "6 Storey",
+      "type": "Commercial & Residential",
+      "amenities": [
+        "Shops",
+        "Parking",
+        "Security"
+      ]
+    }
+  },
+  {
+    "id": "audumber-paradiez",
+    "title": "Audumber Paradiez",
+    "status": "Completed",
+    "location": "Narhe, Pune",
+    "image": "/images/projects/audumber14.jpg",
+    "description": "6 Storey mixed commercial and residential development.",
+    "link": "/projects/audumber-paradiez",
+    "specifications": {
+      "area": "41,000 Sq.Ft",
+      "units": "6 Storey",
+      "type": "Commercial & Residential",
+      "amenities": [
+        "Shops",
+        "Parking",
+        "Security"
+      ]
+    }
+  },
+  {
+    "id": "audumber-pride",
+    "title": "Audumber Pride",
+    "status": "Completed",
+    "location": "Narhe, Pune",
+    "image": "/images/projects/audumber15.jpg",
+    "description": "6 Storey residential building.",
+    "link": "/projects/audumber-pride",
+    "specifications": {
+      "area": "35,000 Sq.Ft",
+      "units": "6 Storey",
+      "type": "Residential",
+      "amenities": [
+        "Parking",
+        "Security"
+      ]
+    }
+  },
+  {
+    "id": "audumber-niya",
+    "title": "Audumber Niya",
+    "status": "Completed",
+    "location": "Narhe, Pune",
+    "image": "/images/projects/audumber16.jpg",
+    "description": "6 Storey commercial & residential building.",
+    "link": "/projects/audumber-niya",
+    "specifications": {
+      "area": "25,000 Sq.Ft",
+      "units": "6 Storey",
+      "type": "Commercial & Residential",
+      "amenities": [
+        "Shops",
+        "Parking",
+        "Security"
+      ]
+    }
+  },
+  {
+    "id": "audumber-nilay",
+    "title": "Audumber Nilay",
+    "status": "Completed",
+    "location": "Narhe, Pune",
+    "image": "/images/projects/audumber17.jpg",
+    "description": "6 Storey commercial & residential project.",
+    "link": "/projects/audumber-nilay",
+    "specifications": {
+      "area": "51,000 Sq.Ft",
+      "units": "6 Storey",
+      "type": "Commercial & Residential",
+      "amenities": [
+        "Shops",
+        "Parking",
+        "Security"
+      ]
+    }
+  }
+]

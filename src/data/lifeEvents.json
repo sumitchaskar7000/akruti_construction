@@ -1,0 +1,29 @@
+[
+  {
+    "id": "event-1",
+    "title": "Annual Team Building",
+    "video": "/videos/v1.mp4",
+    "thumbnail": "/images/life/team-building.jpg",
+    "description": "Annual team building event at resort",
+    "date": "2024-01-15",
+    "image": "/images/life/1.jpg"
+  },
+  {
+    "id": "event-2",
+    "title": "Community Outreach Program",
+    "video": "/videos/v2.mp4",
+    "thumbnail": "/images/life/community-outreach.jpg",
+    "description": "Volunteering at local shelters",
+    "date": "2024-03-22",
+    "image": "/images/life/2.jpg"
+  },
+  {
+    "id": "event-3",
+    "title": "Tech Innovation Workshop",
+    "video": "/videos/tech-workshop.mp4",
+    "thumbnail": "/images/life/tech-workshop.jpg",
+    "description": "Workshop on latest tech trends",
+    "date": "2024-05-10",
+    "image": "/images/life/3.jpg"
+  }
+]
